@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ivan Dachev</h1>
-<h3 align="center">A passionate java junior developer from Bulgaria</h3>
+<h3 align="center">A passionate java junior developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dachev1&label=Profile%20views&color=0e75b6&style=flat" alt="dachev1" /> </p>
 

@@ -1,5 +1,14 @@
 <h1 align="center">Hi 👋, I'm Ivan Dachev</h1>
-<h3 align="center">A passionate java junior developer</h3>
+<h3 align="center">
+I’m a passionate full-stack developer focused on creating scalable and impactful solutions using Java, Spring Boot, and React. Currently working on my AI-Driven Financial Dashboard for my SoftUni final exam.
+
+🔧 Tech Stack:
+Frontend: React, CSS, HTML
+Backend: Spring Boot, Java
+Databases: MySQL, PostgreSQL
+Other: Docker, Git, CI/CD
+🚀 Current Project:
+Building an AI-based financial dashboard with real-time data and predictive analytics.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dachev1&label=Profile%20views&color=0e75b6&style=flat" alt="dachev1" /> </p>
 

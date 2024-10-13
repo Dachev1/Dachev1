@@ -1,12 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ivan Dachev</h1>
 <h3 align="center">
-I’m a passionate full-stack developer focused on creating scalable and impactful solutions using Java, Spring Boot, and React. Currently working on my AI-Driven Financial Dashboard for my SoftUni final exam.
+I’m a passionate full-stack developer focused on creating scalable and impactful solutions using Java, Spring Boot, and React. Currently working on my AI-Driven Financial Dashboard.
 
 🔧 Tech Stack:
 Frontend: React, CSS, HTML
 Backend: Spring Boot, Java
 Databases: MySQL, PostgreSQL
 Other: Docker, Git, CI/CD
+
 🚀 Current Project:
 Building an AI-based financial dashboard with real-time data and predictive analytics.</h3>
 

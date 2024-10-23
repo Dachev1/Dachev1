@@ -1,19 +1,13 @@
-<h1 align="center">Hi 👋, I'm Ivan Dachev</h1>
-<h3 align="center">
-I’m a passionate full-stack developer focused on creating scalable and impactful solutions using Java, Spring Boot, and React. Currently working on my AI-Driven Financial Dashboard.
+👨‍💻 Ivan Dachev | Java & Spring Developer
+Hi, I’m Ivan Dachev, a dedicated developer with a strong focus on Java and Spring Boot. My passion lies in building reliable backend systems and APIs, with experience in frontend development using JavaScript and React. I also have a growing interest in AI technologies and how they can be integrated into modern applications.
 
-🔧 Tech Stack:
-Frontend: React, CSS, HTML
-Backend: Spring Boot, Java
-Databases: MySQL, PostgreSQL
-Other: Docker, Git, CI/CD
+💻 Tech Stack:
+Languages: Java, JavaScript, SQL
+Frameworks: Spring Boot, React
+Databases: PostgreSQL, MySQL
+Tools: Git, Maven
 
-🚀 Current Project:
-Building an AI-based financial dashboard with real-time data and predictive analytics.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dachev1&label=Profile%20views&color=0e75b6&style=flat" alt="dachev1" /> </p>
-
-- 🌱 I’m currently learning **java in softuni university**
+- 🌱 I’m currently learning **java in softuni university** and **Apache Kafka**
 
 - 📫 How to reach me **dacheww13@gmail.com**
 

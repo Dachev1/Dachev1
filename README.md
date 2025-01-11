@@ -2,7 +2,9 @@
 <h3 align="center">Java & Spring Developer 🌱</h3>
 
 ### ⭐ About Me
-- 📖 Learning **Java** and **Spring Boot** at **SoftUni**. Learning **Computer systems and technology** at **The Plovdiv Branch of Sofia Technical University**
+- 📖
+  - Learning **Java** and **Spring Boot** at **SoftUni**.
+  - Learning **Computer systems and technology** at **The Plovdiv Branch of Sofia Technical University**
 - 🔍 Exploring **Apache Kafka** and other backend technologies.  
 - 💡 Open to junior developer roles and opportunities to grow my expertise.
 

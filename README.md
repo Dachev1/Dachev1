@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Ivan Dachev!</h1>
-<h3 align="center">Java & Spring Developer</h3>
+<h3 align="center">Developer</h3>
 
 <p align="center">
   <a href="mailto:dacheww13@gmail.com">
